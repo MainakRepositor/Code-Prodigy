@@ -1,5 +1,5 @@
 # Code-Prodigy
-A collection of most asked concepts in coding interviews and placement test
+A collection of most asked concepts in coding interviews and coding templates for practice
 
 | S. No. | Problem |
 |--------|---------|
